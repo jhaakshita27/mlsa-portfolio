@@ -111,6 +111,7 @@ line-height: 2;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     font-weight: 100;
+    display: inline-block;
     padding:10px 20px;
     border: solid #337FED 1px;
     text-decoration: none;
